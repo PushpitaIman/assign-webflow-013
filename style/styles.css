@@ -1,0 +1,38 @@
+
+.inter-normal{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+/* Button */
+.btn-prem{
+    background-color: #4E47FF;
+    width: 140px;
+    height: 48px;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 12px 36px;
+    font-size: 16px;
+    border: none;
+    color: white;
+    
+}
+/* Nav Style*/
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px;
+   
+}
+
+.nav-h3{
+    font-size: 34px;
+    font-weight: bolder;
+    color: #4E47FF;
+}
+
+nav button{
+
+}
